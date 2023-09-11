@@ -1,4 +1,4 @@
-### Me chamo Emilly, estudo no colégio de São Manoel 🔭
+### Me chamo Emilly 🔭
 
 <!--
 **milizinha07/milizinha07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
